@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
